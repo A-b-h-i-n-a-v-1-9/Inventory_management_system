@@ -37,18 +37,24 @@ A web-based inventory management system built with PHP and MySQL, allowing users
 
 ## 🚀 Installation
 1. **Clone the repository**:
-   ```bash  git clone https://github.com/your-username/IMS.git  ```
-2. Deploy to Server
+   ```bash
+   git clone https://github.com/your-username/IMS.git
+   ```
+3. Deploy to Server
 Move the IMS/ folder to the htdocs/ directory if using XAMPP, or to your server’s root directory.
 
-3. Database Setup
+4. Database Setup
 Import the provided .sql file (usually named ims.sql) into your MySQL database using phpMyAdmin or command line.
 
 Update your database credentials in the file:
-  ```bash includes/db.php ```
+  ```bash
+  includes/db.php
+```
 4. Access the Application
 Open your browser and navigate to:
-```bash http://localhost/IMS ```
+```bash
+http://localhost/IMS
+ ```
 
 ## 📝 Developer Notes
 ✔ Requires PHP 7.4+ and MySQL 5.7+
