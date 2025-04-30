@@ -2,7 +2,7 @@
 
 A web-based inventory management system built with PHP and MySQL, allowing users to manage products efficiently.
 
-![Dashboard Preview](assets/screenshorts/dashb.png) <!-- REPLACE WITH ACTUAL SCREENSHOT PATH -->
+![Dashboard Preview](assets/screenshorts/dash.png) <!-- REPLACE WITH ACTUAL SCREENSHOT PATH -->
 
 ## ✨ Features
 - **Add Products** - Create new inventory items with details.
