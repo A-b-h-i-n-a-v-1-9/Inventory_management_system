@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $user = 'root';
-$password = 'kalki@19';
+$password = '';
 $database = 'inventory_db';
 
 $conn = new mysqli($host, $user, $password, $database);
